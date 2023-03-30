@@ -1,5 +1,5 @@
 const pokeContainer = document.querySelector("#pokeContainer")
-const pokemonCount = 150
+const pokemonCount = 1008
 const colors = {
         fire: '#FDDFDF',
         grass: '#DEFDE0',
